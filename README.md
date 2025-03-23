@@ -30,7 +30,7 @@ coursera-clone/
 ```
 
 ## Video Walkthrough of the Project
-[Attach a 1-3 minute video walkthrough demonstrating the features of the application.]
+https://drive.google.com/file/d/1oy-eWBPI-p8QMO1-eTVWvV9Fpd7QP4-I/view?usp=sharing
 
 ## Features
 - **Home Page**: Displays a list of available courses with categories and a search bar.
@@ -80,4 +80,4 @@ Follow these steps to set up the project locally:
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling and responsive design.
 - **JavaScript**: For adding interactivity and dynamic behavior.
->>>>>>> a06d5013c1643a3fc3857a084c8ff49bd4b16ce6
+
