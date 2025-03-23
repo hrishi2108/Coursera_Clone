@@ -1,5 +1,3 @@
-<<<<<<< HEAD
-=======
 # Coursera Clone
 
 ## Introduction
