@@ -1,0 +1,93 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    line-height: 1.6;
+    color: #333;
+  }
+  
+  a {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  
+.navbar {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 10px 20px;
+  background: white;
+  border-bottom: 1px solid #ddd;
+}
+
+/* Logo */
+.coursera {
+  font-size: 22px;
+  font-weight: bold;
+  color: #0056d2;
+  text-transform: lowercase;
+  font-family: Arial, sans-serif;
+}
+.nav-links a {
+    text-decoration: none;
+    color: black;
+    margin-left: 20px;
+    font-size: 14px;
+  }
+  
+  .nav-links .login {
+    color: #0056d2;
+    font-weight: bold;
+  }
+  
+  .nav-links a:hover {
+    text-decoration: underline;
+  }
+.course-details {
+    max-width: 800px;
+    margin: 20px auto;
+    padding: 20px;
+    background: #f9f9f9;
+    border-radius: 8px;
+}
+
+.course-header {
+    text-align: center;
+}
+
+.course-header img {
+    max-width: 100%;
+    height: auto;
+}
+
+#enroll-button {
+    display: inline-block;
+    margin-top: 20px;
+    padding: 10px 20px;
+    background: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+#enroll-button:hover {
+    background: #0056b3;
+}
+
+.footer {
+    background: #f5f5f5;
+    padding: 20px;
+    text-align: center;
+    border-top: 1px solid #ddd;
+  }
+  
+  
+  
+  .footer p {
+    color: #444;
+    font-size: 14px;
+    margin: 0;
+  }
+  
