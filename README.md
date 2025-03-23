@@ -1,7 +1,3 @@
-Here’s the updated version of your README file with `##` added for proper Markdown formatting. You can now copy and paste this directly into your GitHub repository:
-
----
-
 # Coursera Clone
 
 ## Introduction
@@ -84,7 +80,3 @@ Follow these steps to set up the project locally:
 - **HTML**: For structuring the web pages.
 - **CSS**: For styling and responsive design.
 - **JavaScript**: For adding interactivity and dynamic behavior.
-
----
-
-You can now add this to your GitHub repository as the `README.md` file. Let me know if you need further assistance!
