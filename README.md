@@ -51,7 +51,7 @@ Follow these steps to set up the project locally:
 1. **Download the project**:
    - Clone the repository using the provided git link:
      ```bash
-     git clone https://github.com/hrishi2108/B43_WEB_019_The-Stylists.git
+     git clone https://github.com/hrishi2108/Coursera_Clone.git
      ```
 
 2. **Open the project**:
