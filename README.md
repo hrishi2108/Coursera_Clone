@@ -7,7 +7,7 @@ This project is a clone of Coursera, a popular online learning platform. The pur
 Frontend
 
 ## Deployed App
-roaring-paprenjak-7e24e2.netlify.app
+https://roaring-paprenjak-7e24e2.netlify.app/
 
 ## Directory Structure
 ```
